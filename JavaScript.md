@@ -9,7 +9,7 @@ const funcB = () => {
 export default funcB;
 
 //まとめて後述してもいい
-//export { funcB  } 
+//export { funcB } 
 ```
 ```js script
 //main.js
