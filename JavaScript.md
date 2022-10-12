@@ -3,7 +3,7 @@
 ```js script
 //module.js
 const funcB = () => {
-  console.log("funcB output");
+  console.log("funcB output" );
 };
 //ファイルに一つだけしか設定できない
 export default funcB;
