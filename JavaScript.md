@@ -10,12 +10,12 @@ export default funcB;
 
 //まとめて後述してもいい
 //export { funcB } 
-```
+``` 
 ```js script
 //main.js
 //{}がなくてもいい。名前も違うのでもいい
 import functionB, { hello, User } from "./module.js";
-functionB();
+functionB( );
 ```
 
 ## コールバック関数（引数に関数を入れる）
